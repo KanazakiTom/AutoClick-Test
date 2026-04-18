@@ -1,32 +1,32 @@
 {
-    "hotkey": "f8",
+    "hotkey": "`",
     "work_duration": 14400,
     "pause_duration": 1,
     "clickers": [
         {
             "id": 1,
             "x": "1901",
-            "y": "177",
+            "y": "121",
             "click_type": "Left",
             "interval": "50",
             "stop_condition": "Forever",
             "stop_time": "3600",
             "running": false,
-            "start_time": 1756523368.5080802,
-            "clicks": 219,
+            "start_time": 1757433030.400699,
+            "clicks": 227,
             "admin": false
         },
         {
             "id": 2,
             "x": "834",
-            "y": "386",
+            "y": "341",
             "click_type": "Left",
             "interval": "100",
             "stop_condition": "Forever",
             "stop_time": "3600",
             "running": false,
-            "start_time": 1756523368.5083952,
-            "clicks": 111,
+            "start_time": 1757433030.4008384,
+            "clicks": 116,
             "admin": false
         },
         {
@@ -38,8 +38,8 @@
             "stop_condition": "Forever",
             "stop_time": "3600",
             "running": false,
-            "start_time": 1756523368.5089784,
-            "clicks": 75,
+            "start_time": 1757433030.4013128,
+            "clicks": 78,
             "admin": false
         },
         {
@@ -51,21 +51,21 @@
             "stop_condition": "Forever",
             "stop_time": "3600",
             "running": false,
-            "start_time": 1756523368.509237,
-            "clicks": 57,
+            "start_time": 1757433030.4023948,
+            "clicks": 59,
             "admin": false
         },
         {
             "id": 5,
             "x": "42",
-            "y": "199",
+            "y": "153",
             "click_type": "Left",
             "interval": "200",
             "stop_condition": "Forever",
             "stop_time": "3600",
             "running": false,
-            "start_time": 1756523368.509781,
-            "clicks": 57,
+            "start_time": 1757433030.4029293,
+            "clicks": 59,
             "admin": false
         },
         {
@@ -77,8 +77,8 @@
             "stop_condition": "Forever",
             "stop_time": "3600",
             "running": false,
-            "start_time": 1756523368.5101163,
-            "clicks": 219,
+            "start_time": 1757433030.4046454,
+            "clicks": 227,
             "admin": false
         },
         {
@@ -90,8 +90,8 @@
             "stop_condition": "Forever",
             "stop_time": "3600",
             "running": false,
-            "start_time": 1756523368.509959,
-            "clicks": 210,
+            "start_time": 1757433030.4046733,
+            "clicks": 219,
             "admin": false
         },
         {
@@ -103,8 +103,8 @@
             "stop_condition": "Forever",
             "stop_time": "3600",
             "running": false,
-            "start_time": 1756523368.5103426,
-            "clicks": 228,
+            "start_time": 1757433030.4046912,
+            "clicks": 236,
             "admin": false
         }
     ]
