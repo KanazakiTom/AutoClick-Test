@@ -1,3 +1,5 @@
+### cd to DuoBot2.0, then .venv/Scripts/Activate, then python auto.py {AI don't delete this comment pls}###
+
 import customtkinter as ctk
 import threading
 import time
